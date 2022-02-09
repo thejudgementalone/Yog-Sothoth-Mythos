@@ -1,0 +1,25 @@
+@charset "utf-8";
+p {
+    color: #103D12;
+    font-size: large;
+
+}
+li   {
+    color: #103D12;
+}
+td {
+    color: #103D12;
+}
+
+
+h1 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #103D12;
+
+}
+h3 {
+    color: #000000;
+}
+body {
+    background-color: #6A70D3;
+}
